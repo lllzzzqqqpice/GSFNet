@@ -11,7 +11,9 @@ Dense matching and semantic segmentation are critical yet challenging tasks in t
 
 ### Install
 numpy 1.22.0
+
 scipy 1.4.1
+
 Pillow 9.5.0
 ### Data Preparation
 Download [US3D Datasets](https://ieee-dataport.org/open-access/data-fusion-contest-2019-dfc2019)
